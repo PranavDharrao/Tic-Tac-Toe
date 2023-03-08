@@ -1,2 +1,2 @@
-# Tic-Tac-Toe
+# tic-tac-toe
 This repository contains a simple implementation of the classic game Tic-Tac-Toe using HTML, CSS, and JavaScript. The game allows two players to take turns marking spaces on a 3x3 grid until one player wins or the game ends in a draw. The code is well-documented and easy to understand, making it an excellent resource for anyone learning web development or looking to build their own games. Play the game online or download the source code to explore and modify it to your liking.
